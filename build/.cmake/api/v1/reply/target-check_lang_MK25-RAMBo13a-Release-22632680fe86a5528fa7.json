@@ -1,0 +1,177 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"fw_add_variant",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"build_gen/MK25-RAMBo13a/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 469,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "check_lang_MK25-RAMBo13a_nl::@488c33430631b211108a"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "check_lang_MK25-RAMBo13a_cs::@488c33430631b211108a"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "check_lang_MK25-RAMBo13a_es::@488c33430631b211108a"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "check_lang_MK25-RAMBo13a_de::@488c33430631b211108a"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "check_lang_MK25-RAMBo13a_fr::@488c33430631b211108a"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "check_lang_MK25-RAMBo13a_it::@488c33430631b211108a"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "check_lang_MK25-RAMBo13a_pl::@488c33430631b211108a"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "check_lang_MK25-RAMBo13a_sk::@488c33430631b211108a"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "check_lang_MK25-RAMBo13a_no::@488c33430631b211108a"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "check_lang_MK25-RAMBo13a_ro::@488c33430631b211108a"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "check_lang_MK25-RAMBo13a_hu::@488c33430631b211108a"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "check_lang_MK25-RAMBo13a_sv::@488c33430631b211108a"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "check_lang_MK25-RAMBo13a_hr::@488c33430631b211108a"
+		}
+	],
+	"id" : "check_lang_MK25-RAMBo13a::@488c33430631b211108a",
+	"name" : "check_lang_MK25-RAMBo13a",
+	"paths" : 
+	{
+		"build" : "build_gen/MK25-RAMBo13a",
+		"source" : "build_gen/MK25-RAMBo13a"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

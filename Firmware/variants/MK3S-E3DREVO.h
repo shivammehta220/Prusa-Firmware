@@ -17,7 +17,7 @@
 #define NOZZLE_TYPE "E3DREVO"
 
 // Printer name
-#define CUSTOM_MENDEL_NAME "Prusa i3 MK3S+R"
+#define CUSTOM_MENDEL_NAME "Prusa i3 MK3S+XS"
 
 // Electronics
 #define MOTHERBOARD BOARD_EINSY_1_0a
@@ -41,7 +41,8 @@
  *------------------------------------*/
 
 // Steps per unit {X,Y,Z,E}
-#define DEFAULT_AXIS_STEPS_PER_UNIT   {100,100,3200/8,280}
+// #define DEFAULT_AXIS_STEPS_PER_UNIT   {100,100,3200/8,280}
+#define DEFAULT_AXIS_STEPS_PER_UNIT {100,100,3200/8,397}
 
 // Endstop inverting
 #define X_MIN_ENDSTOP_INVERTING 0 // set to 1 to invert the logic of the endstop.
@@ -303,7 +304,8 @@
  *------------------------------------*/
 
 // Mintemps
-#define HEATER_0_MINTEMP 10
+// #define HEATER_0_MINTEMP 10
+#define HEATER_0_MINTEMP 5
 #define HEATER_MINTEMP_DELAY 15000                // [ms] ! if changed, check maximal allowed value @ ShortTimer
 #if HEATER_MINTEMP_DELAY>USHRT_MAX
 #error "Check maximal allowed value @ ShortTimer (see HEATER_MINTEMP_DELAY definition)"
@@ -322,7 +324,8 @@
 #if defined(E3D_PT100_EXTRUDER_WITH_AMP) || defined(E3D_PT100_EXTRUDER_NO_AMP)
 #define HEATER_0_MAXTEMP 410
 #else
-#define HEATER_0_MAXTEMP 305
+// #define HEATER_0_MAXTEMP 305
+#define HEATER_0_MAXTEMP 300
 #endif
 #define BED_MAXTEMP 125
 #define AMBIENT_MAXTEMP 80
@@ -350,7 +353,8 @@
 #define EXTRUDER_AUTO_FAN_TEMPERATURE 50
 #define EXTRUDER_AUTO_FAN_SPEED   255  // == full speed
 #define EXTRUDER_ALTFAN_DETECT
-#define EXTRUDER_ALTFAN_SPEED_SILENT 128
+// #define EXTRUDER_ALTFAN_SPEED_SILENT 128
+#define EXTRUDER_ALTFAN_SPEED_SILENT 255
 
 #define FANCHECK_AUTO_PRINT_FAN_THRS 70 //[RPS] - Used during selftest to identify swapped fans automatically
 #define FANCHECK_AUTO_FAIL_THRS 20 //[RPS] - Used during selftest to identify a faulty fan
@@ -368,7 +372,9 @@
 #define FILAMENTCHANGE_FIRSTRETRACT -2
 #define FILAMENTCHANGE_FINALRETRACT 0
 
-#define FILAMENTCHANGE_FIRSTFEED 70 //E distance in mm for fast filament loading sequence used used in filament change (M600)
+// #define FILAMENTCHANGE_FIRSTFEED 70 //E distance in mm for fast filament loading sequence used used in filament change (M600)
+#define FILAMENTCHANGE_FIRSTFEED 33 //E distance in mm for fast filament loading sequence used used in filament change (M600) (moded for Hemera)
+// #define FILAMENTCHANGE_FINALFEED 25 //E distance in mm for slow filament loading sequence used used in filament change (M600) and filament load (M701)
 #define FILAMENTCHANGE_FINALFEED 25 //E distance in mm for slow filament loading sequence used used in filament change (M600) and filament load (M701)
 #define FILAMENTCHANGE_RECFEED 5
 
@@ -460,14 +466,22 @@
 #define MESH_MEAS_NUM_X_POINTS 3
 #define MESH_MEAS_NUM_Y_POINTS 3
 
+// Mesh boundaries for Hemera XS Revo
+#define MESH_MIN_X 31
+#define MESH_MAX_X 228
+#define MESH_MIN_Y 12
+#define MESH_MAX_Y 210
+
 // Maximum bed level correction value
 #define BED_ADJUSTMENT_UM_MAX 100
 
 #define MESH_HOME_Z_CALIB 0.2
 #define MESH_HOME_Z_SEARCH 5.0f           // Z lift for homing, mesh bed leveling etc.
 
-#define X_PROBE_OFFSET_FROM_EXTRUDER 23     // Z probe to nozzle X offset: -left  +right
-#define Y_PROBE_OFFSET_FROM_EXTRUDER 5     // Z probe to nozzle Y offset: -front +behind
+// #define X_PROBE_OFFSET_FROM_EXTRUDER 23     // Z probe to nozzle X offset: -left  +right
+// #define Y_PROBE_OFFSET_FROM_EXTRUDER 5     // Z probe to nozzle Y offset: -front +behind
+#define X_PROBE_OFFSET_FROM_EXTRUDER 30.6 // Z probe to nozzle X offset: -left +right
+#define Y_PROBE_OFFSET_FROM_EXTRUDER 11.6 // Z probe to nozzle Y offset: -front +behind
 #define Z_PROBE_OFFSET_FROM_EXTRUDER -0.4  // Z probe to nozzle Z offset: -below (always!)
 #endif
 
@@ -524,7 +538,9 @@
  PREHEAT SETTINGS
  *------------------------------------*/
 
-#define PLA_PREHEAT_HOTEND_TEMP 215
+// #define PLA_PREHEAT_HOTEND_TEMP 215
+// #define PLA_PREHEAT_HPB_TEMP 60
+#define PLA_PREHEAT_HOTEND_TEMP 220
 #define PLA_PREHEAT_HPB_TEMP 60
 
 #define PVB_PREHEAT_HOTEND_TEMP 215
@@ -548,8 +564,10 @@
 #define PP_PREHEAT_HOTEND_TEMP 254
 #define PP_PREHEAT_HPB_TEMP 100
 
-#define PET_PREHEAT_HOTEND_TEMP 230
-#define PET_PREHEAT_HPB_TEMP 85
+// #define PET_PREHEAT_HOTEND_TEMP 230
+// #define PET_PREHEAT_HPB_TEMP 85
+#define PET_PREHEAT_HOTEND_TEMP 255
+#define PET_PREHEAT_HPB_TEMP 75
 
 #define FLEX_PREHEAT_HOTEND_TEMP 240
 #define FLEX_PREHEAT_HPB_TEMP 50
@@ -604,7 +622,8 @@
 #elif defined(E3D_PT100_EXTRUDER_NO_AMP)
 #define TEMP_SENSOR_0 148
 #else
-#define TEMP_SENSOR_0 5
+// #define TEMP_SENSOR_0 5
+#define TEMP_SENSOR_0 1
 #endif
 #if defined(E3D_PT100_BED_WITH_AMP)
 #define TEMP_SENSOR_BED 247

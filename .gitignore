@@ -4,7 +4,6 @@
 /.cproject
 
 # cmake
-/build/
 /build_gen/
 /.dependencies
 /compile_commands.json

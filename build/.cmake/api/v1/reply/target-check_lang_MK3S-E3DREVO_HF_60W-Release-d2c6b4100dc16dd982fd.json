@@ -1,0 +1,177 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"fw_add_variant",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"build_gen/MK3S-E3DREVO_HF_60W/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 469,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "check_lang_MK3S-E3DREVO_HF_60W_it::@023abcac6cd00336fe3e"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "check_lang_MK3S-E3DREVO_HF_60W_sk::@023abcac6cd00336fe3e"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "check_lang_MK3S-E3DREVO_HF_60W_no::@023abcac6cd00336fe3e"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "check_lang_MK3S-E3DREVO_HF_60W_fr::@023abcac6cd00336fe3e"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "check_lang_MK3S-E3DREVO_HF_60W_hu::@023abcac6cd00336fe3e"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "check_lang_MK3S-E3DREVO_HF_60W_nl::@023abcac6cd00336fe3e"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "check_lang_MK3S-E3DREVO_HF_60W_es::@023abcac6cd00336fe3e"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "check_lang_MK3S-E3DREVO_HF_60W_cs::@023abcac6cd00336fe3e"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "check_lang_MK3S-E3DREVO_HF_60W_pl::@023abcac6cd00336fe3e"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "check_lang_MK3S-E3DREVO_HF_60W_ro::@023abcac6cd00336fe3e"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "check_lang_MK3S-E3DREVO_HF_60W_de::@023abcac6cd00336fe3e"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "check_lang_MK3S-E3DREVO_HF_60W_hr::@023abcac6cd00336fe3e"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "check_lang_MK3S-E3DREVO_HF_60W_sv::@023abcac6cd00336fe3e"
+		}
+	],
+	"id" : "check_lang_MK3S-E3DREVO_HF_60W::@023abcac6cd00336fe3e",
+	"name" : "check_lang_MK3S-E3DREVO_HF_60W",
+	"paths" : 
+	{
+		"build" : "build_gen/MK3S-E3DREVO_HF_60W",
+		"source" : "build_gen/MK3S-E3DREVO_HF_60W"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

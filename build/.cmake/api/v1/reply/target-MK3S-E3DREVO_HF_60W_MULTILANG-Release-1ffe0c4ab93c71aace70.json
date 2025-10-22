@@ -1,0 +1,199 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"fw_add_variant"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"build_gen/MK3S-E3DREVO_HF_60W/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 552,
+				"parent" : 1
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "MK3S-E3DREVO_HF_60W_lang_base::@023abcac6cd00336fe3e"
+		}
+	],
+	"id" : "MK3S-E3DREVO_HF_60W_MULTILANG::@023abcac6cd00336fe3e",
+	"name" : "MK3S-E3DREVO_HF_60W_MULTILANG",
+	"paths" : 
+	{
+		"build" : "build_gen/MK3S-E3DREVO_HF_60W",
+		"source" : "build_gen/MK3S-E3DREVO_HF_60W"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/CMakeFiles/MK3S-E3DREVO_HF_60W_MULTILANG",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/CMakeFiles/MK3S-E3DREVO_HF_60W_MULTILANG.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/MK3S-E3DREVO_HF_60W_MULTILANG.hex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/lang/MK3S-E3DREVO_HF_60W_cat.hex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/lang/MK3S-E3DREVO_HF_60W_cat.bin.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/lang/MK3S-E3DREVO_HF_60W_cs.bin.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/lang/MK3S-E3DREVO_HF_60W_de.bin.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/lang/MK3S-E3DREVO_HF_60W_es.bin.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/lang/MK3S-E3DREVO_HF_60W_fr.bin.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/lang/MK3S-E3DREVO_HF_60W_hr.bin.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/lang/MK3S-E3DREVO_HF_60W_hu.bin.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/lang/MK3S-E3DREVO_HF_60W_it.bin.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/lang/MK3S-E3DREVO_HF_60W_nl.bin.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/lang/MK3S-E3DREVO_HF_60W_no.bin.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/lang/MK3S-E3DREVO_HF_60W_pl.bin.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/lang/MK3S-E3DREVO_HF_60W_ro.bin.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/lang/MK3S-E3DREVO_HF_60W_sk.bin.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/lang/MK3S-E3DREVO_HF_60W_sv.bin.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK3S-E3DREVO_HF_60W/lang/MK3S-E3DREVO_HF_60W_lang.map.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

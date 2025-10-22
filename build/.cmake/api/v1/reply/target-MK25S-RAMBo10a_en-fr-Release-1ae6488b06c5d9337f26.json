@@ -1,0 +1,108 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"fw_add_variant"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"build_gen/MK25S-RAMBo10a/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 585,
+				"parent" : 1
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "MK25S-RAMBo10a_lang_base::@9faee3f3256cf5e83794"
+		}
+	],
+	"id" : "MK25S-RAMBo10a_en-fr::@9faee3f3256cf5e83794",
+	"name" : "MK25S-RAMBo10a_en-fr",
+	"paths" : 
+	{
+		"build" : "build_gen/MK25S-RAMBo10a",
+		"source" : "build_gen/MK25S-RAMBo10a"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK25S-RAMBo10a/CMakeFiles/MK25S-RAMBo10a_en-fr",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK25S-RAMBo10a/CMakeFiles/MK25S-RAMBo10a_en-fr.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK25S-RAMBo10a/MK25S-RAMBo10a_en-fr.hex.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK25S-RAMBo10a/MK25S-RAMBo10a_en-fr.bin.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK25S-RAMBo10a/lang/MK25S-RAMBo10a_fr.bin.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK25S-RAMBo10a/lang/MK25S-RAMBo10a_lang.map.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

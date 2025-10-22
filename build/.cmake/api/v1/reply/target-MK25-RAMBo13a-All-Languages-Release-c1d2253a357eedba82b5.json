@@ -1,0 +1,116 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"fw_add_variant"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"build_gen/MK25-RAMBo13a/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 588,
+				"parent" : 1
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "MK25-RAMBo13a_en-de::@488c33430631b211108a"
+		},
+		{
+			"id" : "MK25-RAMBo13a_en-it::@488c33430631b211108a"
+		},
+		{
+			"id" : "MK25-RAMBo13a_en-es::@488c33430631b211108a"
+		},
+		{
+			"id" : "MK25-RAMBo13a_en-cs::@488c33430631b211108a"
+		},
+		{
+			"id" : "MK25-RAMBo13a_en-pl::@488c33430631b211108a"
+		},
+		{
+			"id" : "MK25-RAMBo13a_en-nl::@488c33430631b211108a"
+		},
+		{
+			"id" : "MK25-RAMBo13a_en-fr::@488c33430631b211108a"
+		},
+		{
+			"id" : "MK25-RAMBo13a_en-hr::@488c33430631b211108a"
+		},
+		{
+			"id" : "MK25-RAMBo13a_en-sv::@488c33430631b211108a"
+		},
+		{
+			"id" : "MK25-RAMBo13a_en-hu::@488c33430631b211108a"
+		},
+		{
+			"id" : "MK25-RAMBo13a_en-sk::@488c33430631b211108a"
+		},
+		{
+			"id" : "MK25-RAMBo13a_en-ro::@488c33430631b211108a"
+		},
+		{
+			"id" : "MK25-RAMBo13a_en-no::@488c33430631b211108a"
+		}
+	],
+	"id" : "MK25-RAMBo13a-All-Languages::@488c33430631b211108a",
+	"name" : "MK25-RAMBo13a-All-Languages",
+	"paths" : 
+	{
+		"build" : "build_gen/MK25-RAMBo13a",
+		"source" : "build_gen/MK25-RAMBo13a"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK25-RAMBo13a/CMakeFiles/MK25-RAMBo13a-All-Languages",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/build_gen/MK25-RAMBo13a/CMakeFiles/MK25-RAMBo13a-All-Languages.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}
