@@ -1,0 +1,2500 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					],
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						85,
+						86,
+						227,
+						228,
+						229,
+						230,
+						231,
+						232,
+						233,
+						234,
+						235,
+						236,
+						237,
+						238,
+						239
+					]
+				},
+				{
+					"build" : "lib",
+					"jsonFile" : "directory-lib-Release-e9069484d90298468a11.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lib"
+				},
+				{
+					"build" : "build_gen/MK25-RAMBo10a",
+					"jsonFile" : "directory-build_gen.MK25-RAMBo10a-Release-c1084c0228a893179b58.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "build_gen/MK25-RAMBo10a",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						87,
+						88,
+						89,
+						90,
+						91,
+						92,
+						93,
+						94,
+						95,
+						96,
+						97,
+						98,
+						99,
+						100
+					]
+				},
+				{
+					"build" : "build_gen/MK25-RAMBo13a",
+					"jsonFile" : "directory-build_gen.MK25-RAMBo13a-Release-73017fd60270f188dbf5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "build_gen/MK25-RAMBo13a",
+					"targetIndexes" : 
+					[
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						101,
+						102,
+						103,
+						104,
+						105,
+						106,
+						107,
+						108,
+						109,
+						110,
+						111,
+						112,
+						113,
+						114
+					]
+				},
+				{
+					"build" : "build_gen/MK25S-RAMBo10a",
+					"jsonFile" : "directory-build_gen.MK25S-RAMBo10a-Release-5fc229e44054919aac90.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "build_gen/MK25S-RAMBo10a",
+					"targetIndexes" : 
+					[
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						115,
+						116,
+						117,
+						118,
+						119,
+						120,
+						121,
+						122,
+						123,
+						124,
+						125,
+						126,
+						127,
+						128
+					]
+				},
+				{
+					"build" : "build_gen/MK25S-RAMBo13a",
+					"jsonFile" : "directory-build_gen.MK25S-RAMBo13a-Release-ea0b1c3b3f400b2d3b2e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "build_gen/MK25S-RAMBo13a",
+					"targetIndexes" : 
+					[
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						129,
+						130,
+						131,
+						132,
+						133,
+						134,
+						135,
+						136,
+						137,
+						138,
+						139,
+						140,
+						141,
+						142
+					]
+				},
+				{
+					"build" : "build_gen/MK3-E3DREVO",
+					"jsonFile" : "directory-build_gen.MK3-E3DREVO-Release-926f6a741f293781df52.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "build_gen/MK3-E3DREVO",
+					"targetIndexes" : 
+					[
+						67,
+						71,
+						72,
+						144,
+						159,
+						160,
+						161,
+						162,
+						163,
+						164,
+						165,
+						166,
+						167,
+						168,
+						169,
+						170,
+						171
+					]
+				},
+				{
+					"build" : "build_gen/MK3-E3DREVO_HF_60W",
+					"jsonFile" : "directory-build_gen.MK3-E3DREVO_HF_60W-Release-3011d054a868454ffb2f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "build_gen/MK3-E3DREVO_HF_60W",
+					"targetIndexes" : 
+					[
+						68,
+						69,
+						70,
+						145,
+						146,
+						147,
+						148,
+						149,
+						150,
+						151,
+						152,
+						153,
+						154,
+						155,
+						156,
+						157,
+						158
+					]
+				},
+				{
+					"build" : "build_gen/MK3",
+					"jsonFile" : "directory-build_gen.MK3-Release-0b3ebcf5777d1696e718.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 7,
+					"source" : "build_gen/MK3",
+					"targetIndexes" : 
+					[
+						82,
+						83,
+						84,
+						143,
+						214,
+						215,
+						216,
+						217,
+						218,
+						219,
+						220,
+						221,
+						222,
+						223,
+						224,
+						225,
+						226
+					]
+				},
+				{
+					"build" : "build_gen/MK3S-E3DREVO",
+					"jsonFile" : "directory-build_gen.MK3S-E3DREVO-Release-45e08edcb9afdd6ec35c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 8,
+					"source" : "build_gen/MK3S-E3DREVO",
+					"targetIndexes" : 
+					[
+						73,
+						77,
+						78,
+						173,
+						188,
+						189,
+						190,
+						191,
+						192,
+						193,
+						194,
+						195,
+						196,
+						197,
+						198,
+						199,
+						200
+					]
+				},
+				{
+					"build" : "build_gen/MK3S-E3DREVO_HF_60W",
+					"jsonFile" : "directory-build_gen.MK3S-E3DREVO_HF_60W-Release-347ad325292e70bbc248.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 9,
+					"source" : "build_gen/MK3S-E3DREVO_HF_60W",
+					"targetIndexes" : 
+					[
+						74,
+						75,
+						76,
+						174,
+						175,
+						176,
+						177,
+						178,
+						179,
+						180,
+						181,
+						182,
+						183,
+						184,
+						185,
+						186,
+						187
+					]
+				},
+				{
+					"build" : "build_gen/MK3S",
+					"jsonFile" : "directory-build_gen.MK3S-Release-8e8e847f0b691139fbb5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 10,
+					"source" : "build_gen/MK3S",
+					"targetIndexes" : 
+					[
+						79,
+						80,
+						81,
+						172,
+						201,
+						202,
+						203,
+						204,
+						205,
+						206,
+						207,
+						208,
+						209,
+						210,
+						211,
+						212,
+						213
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Prusa-Firmware",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						85,
+						86,
+						227,
+						228,
+						229,
+						230,
+						231,
+						232,
+						233,
+						234,
+						235,
+						236,
+						237,
+						238,
+						239
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "MK25-RAMBo10a",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						87,
+						88,
+						89,
+						90,
+						91,
+						92,
+						93,
+						94,
+						95,
+						96,
+						97,
+						98,
+						99,
+						100
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "MK25-RAMBo13a",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						101,
+						102,
+						103,
+						104,
+						105,
+						106,
+						107,
+						108,
+						109,
+						110,
+						111,
+						112,
+						113,
+						114
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "MK25S-RAMBo10a",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						115,
+						116,
+						117,
+						118,
+						119,
+						120,
+						121,
+						122,
+						123,
+						124,
+						125,
+						126,
+						127,
+						128
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "MK25S-RAMBo13a",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						129,
+						130,
+						131,
+						132,
+						133,
+						134,
+						135,
+						136,
+						137,
+						138,
+						139,
+						140,
+						141,
+						142
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "MK3-E3DREVO",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						67,
+						71,
+						72,
+						144,
+						159,
+						160,
+						161,
+						162,
+						163,
+						164,
+						165,
+						166,
+						167,
+						168,
+						169,
+						170,
+						171
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "MK3-E3DREVO_HF_60W",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						68,
+						69,
+						70,
+						145,
+						146,
+						147,
+						148,
+						149,
+						150,
+						151,
+						152,
+						153,
+						154,
+						155,
+						156,
+						157,
+						158
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "MK3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						82,
+						83,
+						84,
+						143,
+						214,
+						215,
+						216,
+						217,
+						218,
+						219,
+						220,
+						221,
+						222,
+						223,
+						224,
+						225,
+						226
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "MK3S-E3DREVO",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						73,
+						77,
+						78,
+						173,
+						188,
+						189,
+						190,
+						191,
+						192,
+						193,
+						194,
+						195,
+						196,
+						197,
+						198,
+						199,
+						200
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "MK3S-E3DREVO_HF_60W",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						74,
+						75,
+						76,
+						174,
+						175,
+						176,
+						177,
+						178,
+						179,
+						180,
+						181,
+						182,
+						183,
+						184,
+						185,
+						186,
+						187
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "MK3S",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						79,
+						80,
+						81,
+						172,
+						201,
+						202,
+						203,
+						204,
+						205,
+						206,
+						207,
+						208,
+						209,
+						210,
+						211,
+						212,
+						213
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_ENGLISH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_ENGLISH-Release-1299efb6037862f443e5.json",
+					"name" : "ALL_ENGLISH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_FIRMWARE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_FIRMWARE-Release-3e10e1842ccb0efa846c.json",
+					"name" : "ALL_FIRMWARE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_MULTILANG::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_MULTILANG-Release-3359bd48f1a8f9dfc948.json",
+					"name" : "ALL_MULTILANG",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MK25-RAMBo10a-All-Languages::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-MK25-RAMBo10a-All-Languages-Release-4112cb0dfc485d706dee.json",
+					"name" : "MK25-RAMBo10a-All-Languages",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MK25-RAMBo10a_ENGLISH::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-MK25-RAMBo10a_ENGLISH-Release-c032d64810b59469aeb3.json",
+					"name" : "MK25-RAMBo10a_ENGLISH",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MK25-RAMBo10a_en-cs::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-MK25-RAMBo10a_en-cs-Release-73a2a98169cd37a0a9de.json",
+					"name" : "MK25-RAMBo10a_en-cs",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MK25-RAMBo10a_en-de::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-MK25-RAMBo10a_en-de-Release-9091ebf7c619031590b7.json",
+					"name" : "MK25-RAMBo10a_en-de",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MK25-RAMBo10a_en-es::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-MK25-RAMBo10a_en-es-Release-e88118f587b728eb48b9.json",
+					"name" : "MK25-RAMBo10a_en-es",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MK25-RAMBo10a_en-fr::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-MK25-RAMBo10a_en-fr-Release-d21ba2fca41c4de4377d.json",
+					"name" : "MK25-RAMBo10a_en-fr",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MK25-RAMBo10a_en-hr::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-MK25-RAMBo10a_en-hr-Release-6f4e12e266b63a342371.json",
+					"name" : "MK25-RAMBo10a_en-hr",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MK25-RAMBo10a_en-hu::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-MK25-RAMBo10a_en-hu-Release-4fd41c6d3fb5fbdaed64.json",
+					"name" : "MK25-RAMBo10a_en-hu",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MK25-RAMBo10a_en-it::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-MK25-RAMBo10a_en-it-Release-071c4e1c1c2f9c5727c7.json",
+					"name" : "MK25-RAMBo10a_en-it",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MK25-RAMBo10a_en-nl::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-MK25-RAMBo10a_en-nl-Release-dce0f94626297298d9dc.json",
+					"name" : "MK25-RAMBo10a_en-nl",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MK25-RAMBo10a_en-no::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-MK25-RAMBo10a_en-no-Release-1fd75b9a9dee499faf2f.json",
+					"name" : "MK25-RAMBo10a_en-no",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MK25-RAMBo10a_en-pl::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-MK25-RAMBo10a_en-pl-Release-44b73e7dd773bdab3f1f.json",
+					"name" : "MK25-RAMBo10a_en-pl",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MK25-RAMBo10a_en-ro::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-MK25-RAMBo10a_en-ro-Release-c85bb601f419e7001a33.json",
+					"name" : "MK25-RAMBo10a_en-ro",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MK25-RAMBo10a_en-sk::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-MK25-RAMBo10a_en-sk-Release-b366c051f2ee82b8982d.json",
+					"name" : "MK25-RAMBo10a_en-sk",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MK25-RAMBo10a_en-sv::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-MK25-RAMBo10a_en-sv-Release-dc0815828bbc8c6a4012.json",
+					"name" : "MK25-RAMBo10a_en-sv",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MK25-RAMBo10a_lang_base::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-MK25-RAMBo10a_lang_base-Release-4eaf0f99ebbaefc41863.json",
+					"name" : "MK25-RAMBo10a_lang_base",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MK25-RAMBo13a-All-Languages::@488c33430631b211108a",
+					"jsonFile" : "target-MK25-RAMBo13a-All-Languages-Release-ad10fcfef6f5c14d9a8b.json",
+					"name" : "MK25-RAMBo13a-All-Languages",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MK25-RAMBo13a_ENGLISH::@488c33430631b211108a",
+					"jsonFile" : "target-MK25-RAMBo13a_ENGLISH-Release-ad4e7dc7c63a8d4919bf.json",
+					"name" : "MK25-RAMBo13a_ENGLISH",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MK25-RAMBo13a_en-cs::@488c33430631b211108a",
+					"jsonFile" : "target-MK25-RAMBo13a_en-cs-Release-ecf488532c8f7a0a54b4.json",
+					"name" : "MK25-RAMBo13a_en-cs",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MK25-RAMBo13a_en-de::@488c33430631b211108a",
+					"jsonFile" : "target-MK25-RAMBo13a_en-de-Release-6f337179e41730693ece.json",
+					"name" : "MK25-RAMBo13a_en-de",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MK25-RAMBo13a_en-es::@488c33430631b211108a",
+					"jsonFile" : "target-MK25-RAMBo13a_en-es-Release-ffeb116f566de028645c.json",
+					"name" : "MK25-RAMBo13a_en-es",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MK25-RAMBo13a_en-fr::@488c33430631b211108a",
+					"jsonFile" : "target-MK25-RAMBo13a_en-fr-Release-29f9b5bb688272267aad.json",
+					"name" : "MK25-RAMBo13a_en-fr",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MK25-RAMBo13a_en-hr::@488c33430631b211108a",
+					"jsonFile" : "target-MK25-RAMBo13a_en-hr-Release-ae78854901a0b78f7db0.json",
+					"name" : "MK25-RAMBo13a_en-hr",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MK25-RAMBo13a_en-hu::@488c33430631b211108a",
+					"jsonFile" : "target-MK25-RAMBo13a_en-hu-Release-01d1577db9d6de5664bc.json",
+					"name" : "MK25-RAMBo13a_en-hu",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MK25-RAMBo13a_en-it::@488c33430631b211108a",
+					"jsonFile" : "target-MK25-RAMBo13a_en-it-Release-28e69dc25ceb0a62d616.json",
+					"name" : "MK25-RAMBo13a_en-it",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MK25-RAMBo13a_en-nl::@488c33430631b211108a",
+					"jsonFile" : "target-MK25-RAMBo13a_en-nl-Release-3a46bb70f7169a109438.json",
+					"name" : "MK25-RAMBo13a_en-nl",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MK25-RAMBo13a_en-no::@488c33430631b211108a",
+					"jsonFile" : "target-MK25-RAMBo13a_en-no-Release-1959a744c4b848472c7c.json",
+					"name" : "MK25-RAMBo13a_en-no",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MK25-RAMBo13a_en-pl::@488c33430631b211108a",
+					"jsonFile" : "target-MK25-RAMBo13a_en-pl-Release-047541760b671eb7ba20.json",
+					"name" : "MK25-RAMBo13a_en-pl",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MK25-RAMBo13a_en-ro::@488c33430631b211108a",
+					"jsonFile" : "target-MK25-RAMBo13a_en-ro-Release-f4e99321ff61fedb3a6f.json",
+					"name" : "MK25-RAMBo13a_en-ro",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MK25-RAMBo13a_en-sk::@488c33430631b211108a",
+					"jsonFile" : "target-MK25-RAMBo13a_en-sk-Release-e6ff5c9dae3fb73d4454.json",
+					"name" : "MK25-RAMBo13a_en-sk",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MK25-RAMBo13a_en-sv::@488c33430631b211108a",
+					"jsonFile" : "target-MK25-RAMBo13a_en-sv-Release-9f235cb9540ad25fd55b.json",
+					"name" : "MK25-RAMBo13a_en-sv",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MK25-RAMBo13a_lang_base::@488c33430631b211108a",
+					"jsonFile" : "target-MK25-RAMBo13a_lang_base-Release-3f7710d20b34c53fb257.json",
+					"name" : "MK25-RAMBo13a_lang_base",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "MK25S-RAMBo10a-All-Languages::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-MK25S-RAMBo10a-All-Languages-Release-0da89b82cf6c722ca9f3.json",
+					"name" : "MK25S-RAMBo10a-All-Languages",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "MK25S-RAMBo10a_ENGLISH::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-MK25S-RAMBo10a_ENGLISH-Release-f3711759881da9ef6f1a.json",
+					"name" : "MK25S-RAMBo10a_ENGLISH",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "MK25S-RAMBo10a_en-cs::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-MK25S-RAMBo10a_en-cs-Release-a9fb7ffd51a2771d3f8f.json",
+					"name" : "MK25S-RAMBo10a_en-cs",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "MK25S-RAMBo10a_en-de::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-MK25S-RAMBo10a_en-de-Release-46367f584daa871e4869.json",
+					"name" : "MK25S-RAMBo10a_en-de",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "MK25S-RAMBo10a_en-es::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-MK25S-RAMBo10a_en-es-Release-0d2f79e51ae43c94dd01.json",
+					"name" : "MK25S-RAMBo10a_en-es",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "MK25S-RAMBo10a_en-fr::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-MK25S-RAMBo10a_en-fr-Release-1ae6488b06c5d9337f26.json",
+					"name" : "MK25S-RAMBo10a_en-fr",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "MK25S-RAMBo10a_en-hr::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-MK25S-RAMBo10a_en-hr-Release-a47d643f234bf968e841.json",
+					"name" : "MK25S-RAMBo10a_en-hr",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "MK25S-RAMBo10a_en-hu::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-MK25S-RAMBo10a_en-hu-Release-5a8f5c8e703be786cb09.json",
+					"name" : "MK25S-RAMBo10a_en-hu",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "MK25S-RAMBo10a_en-it::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-MK25S-RAMBo10a_en-it-Release-098edfd0c80b09dfe761.json",
+					"name" : "MK25S-RAMBo10a_en-it",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "MK25S-RAMBo10a_en-nl::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-MK25S-RAMBo10a_en-nl-Release-c6248968e6b771a4e96c.json",
+					"name" : "MK25S-RAMBo10a_en-nl",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "MK25S-RAMBo10a_en-no::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-MK25S-RAMBo10a_en-no-Release-c33c11e080127732585a.json",
+					"name" : "MK25S-RAMBo10a_en-no",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "MK25S-RAMBo10a_en-pl::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-MK25S-RAMBo10a_en-pl-Release-61736fb140b636eca1f0.json",
+					"name" : "MK25S-RAMBo10a_en-pl",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "MK25S-RAMBo10a_en-ro::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-MK25S-RAMBo10a_en-ro-Release-cc121f1118d73ae2602e.json",
+					"name" : "MK25S-RAMBo10a_en-ro",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "MK25S-RAMBo10a_en-sk::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-MK25S-RAMBo10a_en-sk-Release-a72f6d24a2ec0dd03af2.json",
+					"name" : "MK25S-RAMBo10a_en-sk",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "MK25S-RAMBo10a_en-sv::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-MK25S-RAMBo10a_en-sv-Release-87cbfc7ec5760dd53dc0.json",
+					"name" : "MK25S-RAMBo10a_en-sv",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "MK25S-RAMBo10a_lang_base::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-MK25S-RAMBo10a_lang_base-Release-1b0b608763439d1c5bfa.json",
+					"name" : "MK25S-RAMBo10a_lang_base",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "MK25S-RAMBo13a-All-Languages::@71c8037c2192bb634858",
+					"jsonFile" : "target-MK25S-RAMBo13a-All-Languages-Release-3fc37ffdf34c361b6c32.json",
+					"name" : "MK25S-RAMBo13a-All-Languages",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "MK25S-RAMBo13a_ENGLISH::@71c8037c2192bb634858",
+					"jsonFile" : "target-MK25S-RAMBo13a_ENGLISH-Release-abed12bca81d4b08957e.json",
+					"name" : "MK25S-RAMBo13a_ENGLISH",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "MK25S-RAMBo13a_en-cs::@71c8037c2192bb634858",
+					"jsonFile" : "target-MK25S-RAMBo13a_en-cs-Release-c36bfa3e859a92469ae9.json",
+					"name" : "MK25S-RAMBo13a_en-cs",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "MK25S-RAMBo13a_en-de::@71c8037c2192bb634858",
+					"jsonFile" : "target-MK25S-RAMBo13a_en-de-Release-98412bab2502ab47f9fb.json",
+					"name" : "MK25S-RAMBo13a_en-de",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "MK25S-RAMBo13a_en-es::@71c8037c2192bb634858",
+					"jsonFile" : "target-MK25S-RAMBo13a_en-es-Release-ee5532c3c86c90ec314c.json",
+					"name" : "MK25S-RAMBo13a_en-es",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "MK25S-RAMBo13a_en-fr::@71c8037c2192bb634858",
+					"jsonFile" : "target-MK25S-RAMBo13a_en-fr-Release-14f53d5dbe84e3a58bfb.json",
+					"name" : "MK25S-RAMBo13a_en-fr",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "MK25S-RAMBo13a_en-hr::@71c8037c2192bb634858",
+					"jsonFile" : "target-MK25S-RAMBo13a_en-hr-Release-3ca39f4a6855c200b520.json",
+					"name" : "MK25S-RAMBo13a_en-hr",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "MK25S-RAMBo13a_en-hu::@71c8037c2192bb634858",
+					"jsonFile" : "target-MK25S-RAMBo13a_en-hu-Release-156f696f27462bc04393.json",
+					"name" : "MK25S-RAMBo13a_en-hu",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "MK25S-RAMBo13a_en-it::@71c8037c2192bb634858",
+					"jsonFile" : "target-MK25S-RAMBo13a_en-it-Release-75409c6c1e614a9522a9.json",
+					"name" : "MK25S-RAMBo13a_en-it",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "MK25S-RAMBo13a_en-nl::@71c8037c2192bb634858",
+					"jsonFile" : "target-MK25S-RAMBo13a_en-nl-Release-40983e477035fe54f646.json",
+					"name" : "MK25S-RAMBo13a_en-nl",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "MK25S-RAMBo13a_en-no::@71c8037c2192bb634858",
+					"jsonFile" : "target-MK25S-RAMBo13a_en-no-Release-3e062f678a4f723780a1.json",
+					"name" : "MK25S-RAMBo13a_en-no",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "MK25S-RAMBo13a_en-pl::@71c8037c2192bb634858",
+					"jsonFile" : "target-MK25S-RAMBo13a_en-pl-Release-ceab356b5582beb17d22.json",
+					"name" : "MK25S-RAMBo13a_en-pl",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "MK25S-RAMBo13a_en-ro::@71c8037c2192bb634858",
+					"jsonFile" : "target-MK25S-RAMBo13a_en-ro-Release-5a8a84ef4c77138d212a.json",
+					"name" : "MK25S-RAMBo13a_en-ro",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "MK25S-RAMBo13a_en-sk::@71c8037c2192bb634858",
+					"jsonFile" : "target-MK25S-RAMBo13a_en-sk-Release-872cd43ea45e2f82e50f.json",
+					"name" : "MK25S-RAMBo13a_en-sk",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "MK25S-RAMBo13a_en-sv::@71c8037c2192bb634858",
+					"jsonFile" : "target-MK25S-RAMBo13a_en-sv-Release-71b371563bee86aaf81f.json",
+					"name" : "MK25S-RAMBo13a_en-sv",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "MK25S-RAMBo13a_lang_base::@71c8037c2192bb634858",
+					"jsonFile" : "target-MK25S-RAMBo13a_lang_base-Release-7a5be0552c2575a6b4cc.json",
+					"name" : "MK25S-RAMBo13a_lang_base",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "MK3-E3DREVO_ENGLISH::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-MK3-E3DREVO_ENGLISH-Release-165f09ce33849a94ef73.json",
+					"name" : "MK3-E3DREVO_ENGLISH",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "MK3-E3DREVO_HF_60W_ENGLISH::@c337da9d8a177297e47a",
+					"jsonFile" : "target-MK3-E3DREVO_HF_60W_ENGLISH-Release-b32d5d17e4b29af7cf0d.json",
+					"name" : "MK3-E3DREVO_HF_60W_ENGLISH",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "MK3-E3DREVO_HF_60W_MULTILANG::@c337da9d8a177297e47a",
+					"jsonFile" : "target-MK3-E3DREVO_HF_60W_MULTILANG-Release-419df2b405fda10edafd.json",
+					"name" : "MK3-E3DREVO_HF_60W_MULTILANG",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "MK3-E3DREVO_HF_60W_lang_base::@c337da9d8a177297e47a",
+					"jsonFile" : "target-MK3-E3DREVO_HF_60W_lang_base-Release-364501344d6002b8d7d6.json",
+					"name" : "MK3-E3DREVO_HF_60W_lang_base",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "MK3-E3DREVO_MULTILANG::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-MK3-E3DREVO_MULTILANG-Release-712a27be4c49ef6f4e2a.json",
+					"name" : "MK3-E3DREVO_MULTILANG",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "MK3-E3DREVO_lang_base::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-MK3-E3DREVO_lang_base-Release-86df0e3ba03cf0f8a9e5.json",
+					"name" : "MK3-E3DREVO_lang_base",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "MK3S-E3DREVO_ENGLISH::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-MK3S-E3DREVO_ENGLISH-Release-7508cb097a6923d0e1e7.json",
+					"name" : "MK3S-E3DREVO_ENGLISH",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "MK3S-E3DREVO_HF_60W_ENGLISH::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-MK3S-E3DREVO_HF_60W_ENGLISH-Release-a3da06bc66bb8e2a843c.json",
+					"name" : "MK3S-E3DREVO_HF_60W_ENGLISH",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "MK3S-E3DREVO_HF_60W_MULTILANG::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-MK3S-E3DREVO_HF_60W_MULTILANG-Release-1ffe0c4ab93c71aace70.json",
+					"name" : "MK3S-E3DREVO_HF_60W_MULTILANG",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "MK3S-E3DREVO_HF_60W_lang_base::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-MK3S-E3DREVO_HF_60W_lang_base-Release-8dc36de94d55b28a3357.json",
+					"name" : "MK3S-E3DREVO_HF_60W_lang_base",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "MK3S-E3DREVO_MULTILANG::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-MK3S-E3DREVO_MULTILANG-Release-5cd656d5f00e6a0983f5.json",
+					"name" : "MK3S-E3DREVO_MULTILANG",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "MK3S-E3DREVO_lang_base::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-MK3S-E3DREVO_lang_base-Release-8cc3e9b48d87150ecbd3.json",
+					"name" : "MK3S-E3DREVO_lang_base",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "MK3S_ENGLISH::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-MK3S_ENGLISH-Release-68f1e0d843bd32fdd196.json",
+					"name" : "MK3S_ENGLISH",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "MK3S_MULTILANG::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-MK3S_MULTILANG-Release-38187cf57f173db0410c.json",
+					"name" : "MK3S_MULTILANG",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "MK3S_lang_base::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-MK3S_lang_base-Release-01d89793fd35b796d279.json",
+					"name" : "MK3S_lang_base",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "MK3_ENGLISH::@82e164d588386a1c94d3",
+					"jsonFile" : "target-MK3_ENGLISH-Release-a6a8c6e06d2a82e7577e.json",
+					"name" : "MK3_ENGLISH",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "MK3_MULTILANG::@82e164d588386a1c94d3",
+					"jsonFile" : "target-MK3_MULTILANG-Release-34097622a9eee037768d.json",
+					"name" : "MK3_MULTILANG",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "MK3_lang_base::@82e164d588386a1c94d3",
+					"jsonFile" : "target-MK3_lang_base-Release-b50305906cf49ea25cd7.json",
+					"name" : "MK3_lang_base",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "avr_core::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-avr_core-Release-5879d38107fd960a0be1.json",
+					"name" : "avr_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check_lang::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_lang-Release-d5f60ad3e091a63932ca.json",
+					"name" : "check_lang",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check_lang_MK25-RAMBo10a::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-check_lang_MK25-RAMBo10a-Release-d90b5bdd519aa47aa61f.json",
+					"name" : "check_lang_MK25-RAMBo10a",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check_lang_MK25-RAMBo10a_cs::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-check_lang_MK25-RAMBo10a_cs-Release-07d2b5952f7d57f750bb.json",
+					"name" : "check_lang_MK25-RAMBo10a_cs",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check_lang_MK25-RAMBo10a_de::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-check_lang_MK25-RAMBo10a_de-Release-8e5bdb6eb29af61db352.json",
+					"name" : "check_lang_MK25-RAMBo10a_de",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check_lang_MK25-RAMBo10a_es::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-check_lang_MK25-RAMBo10a_es-Release-56609a76866aee588ccb.json",
+					"name" : "check_lang_MK25-RAMBo10a_es",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check_lang_MK25-RAMBo10a_fr::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-check_lang_MK25-RAMBo10a_fr-Release-1e70bfb8a2fbd1b051ee.json",
+					"name" : "check_lang_MK25-RAMBo10a_fr",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check_lang_MK25-RAMBo10a_hr::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-check_lang_MK25-RAMBo10a_hr-Release-e7508a8f9b4e59141256.json",
+					"name" : "check_lang_MK25-RAMBo10a_hr",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check_lang_MK25-RAMBo10a_hu::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-check_lang_MK25-RAMBo10a_hu-Release-a2055351195a173ce269.json",
+					"name" : "check_lang_MK25-RAMBo10a_hu",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check_lang_MK25-RAMBo10a_it::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-check_lang_MK25-RAMBo10a_it-Release-96568e1d9c4ff0beb3e2.json",
+					"name" : "check_lang_MK25-RAMBo10a_it",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check_lang_MK25-RAMBo10a_nl::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-check_lang_MK25-RAMBo10a_nl-Release-e58703b19fa3b2c2a2ae.json",
+					"name" : "check_lang_MK25-RAMBo10a_nl",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check_lang_MK25-RAMBo10a_no::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-check_lang_MK25-RAMBo10a_no-Release-06197bb33ebf8cd2adac.json",
+					"name" : "check_lang_MK25-RAMBo10a_no",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check_lang_MK25-RAMBo10a_pl::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-check_lang_MK25-RAMBo10a_pl-Release-f3af8843d693aafa7b97.json",
+					"name" : "check_lang_MK25-RAMBo10a_pl",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check_lang_MK25-RAMBo10a_ro::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-check_lang_MK25-RAMBo10a_ro-Release-395afed2f3362986da26.json",
+					"name" : "check_lang_MK25-RAMBo10a_ro",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check_lang_MK25-RAMBo10a_sk::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-check_lang_MK25-RAMBo10a_sk-Release-e0864e12920e0590554e.json",
+					"name" : "check_lang_MK25-RAMBo10a_sk",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "check_lang_MK25-RAMBo10a_sv::@509b0f89c448b6a2654f",
+					"jsonFile" : "target-check_lang_MK25-RAMBo10a_sv-Release-9bc5ddbf4daaf4b122b9.json",
+					"name" : "check_lang_MK25-RAMBo10a_sv",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "check_lang_MK25-RAMBo13a::@488c33430631b211108a",
+					"jsonFile" : "target-check_lang_MK25-RAMBo13a-Release-eda3692299bd97ea0999.json",
+					"name" : "check_lang_MK25-RAMBo13a",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "check_lang_MK25-RAMBo13a_cs::@488c33430631b211108a",
+					"jsonFile" : "target-check_lang_MK25-RAMBo13a_cs-Release-711890226608bd81f59b.json",
+					"name" : "check_lang_MK25-RAMBo13a_cs",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "check_lang_MK25-RAMBo13a_de::@488c33430631b211108a",
+					"jsonFile" : "target-check_lang_MK25-RAMBo13a_de-Release-5c46e40fdc788e184c63.json",
+					"name" : "check_lang_MK25-RAMBo13a_de",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "check_lang_MK25-RAMBo13a_es::@488c33430631b211108a",
+					"jsonFile" : "target-check_lang_MK25-RAMBo13a_es-Release-00bb5dc4954b41ad8980.json",
+					"name" : "check_lang_MK25-RAMBo13a_es",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "check_lang_MK25-RAMBo13a_fr::@488c33430631b211108a",
+					"jsonFile" : "target-check_lang_MK25-RAMBo13a_fr-Release-ffa8ec10681707412757.json",
+					"name" : "check_lang_MK25-RAMBo13a_fr",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "check_lang_MK25-RAMBo13a_hr::@488c33430631b211108a",
+					"jsonFile" : "target-check_lang_MK25-RAMBo13a_hr-Release-be7b149e3c77e9e598e5.json",
+					"name" : "check_lang_MK25-RAMBo13a_hr",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "check_lang_MK25-RAMBo13a_hu::@488c33430631b211108a",
+					"jsonFile" : "target-check_lang_MK25-RAMBo13a_hu-Release-84ed909e0a905b51882b.json",
+					"name" : "check_lang_MK25-RAMBo13a_hu",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "check_lang_MK25-RAMBo13a_it::@488c33430631b211108a",
+					"jsonFile" : "target-check_lang_MK25-RAMBo13a_it-Release-c5b29ca7b71c942aa484.json",
+					"name" : "check_lang_MK25-RAMBo13a_it",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "check_lang_MK25-RAMBo13a_nl::@488c33430631b211108a",
+					"jsonFile" : "target-check_lang_MK25-RAMBo13a_nl-Release-7c5e7d68b2b7befb803e.json",
+					"name" : "check_lang_MK25-RAMBo13a_nl",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "check_lang_MK25-RAMBo13a_no::@488c33430631b211108a",
+					"jsonFile" : "target-check_lang_MK25-RAMBo13a_no-Release-6ae874830a0f231fe743.json",
+					"name" : "check_lang_MK25-RAMBo13a_no",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "check_lang_MK25-RAMBo13a_pl::@488c33430631b211108a",
+					"jsonFile" : "target-check_lang_MK25-RAMBo13a_pl-Release-ca5ae7a87b5a2612b58b.json",
+					"name" : "check_lang_MK25-RAMBo13a_pl",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "check_lang_MK25-RAMBo13a_ro::@488c33430631b211108a",
+					"jsonFile" : "target-check_lang_MK25-RAMBo13a_ro-Release-cb8a9b45857877db0f09.json",
+					"name" : "check_lang_MK25-RAMBo13a_ro",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "check_lang_MK25-RAMBo13a_sk::@488c33430631b211108a",
+					"jsonFile" : "target-check_lang_MK25-RAMBo13a_sk-Release-f08fe1b56b4957ddc32e.json",
+					"name" : "check_lang_MK25-RAMBo13a_sk",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "check_lang_MK25-RAMBo13a_sv::@488c33430631b211108a",
+					"jsonFile" : "target-check_lang_MK25-RAMBo13a_sv-Release-eba94294387fae4097ca.json",
+					"name" : "check_lang_MK25-RAMBo13a_sv",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "check_lang_MK25S-RAMBo10a::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo10a-Release-d1c904a8aa969c57410b.json",
+					"name" : "check_lang_MK25S-RAMBo10a",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "check_lang_MK25S-RAMBo10a_cs::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo10a_cs-Release-9f4c4e3b9d605615d789.json",
+					"name" : "check_lang_MK25S-RAMBo10a_cs",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "check_lang_MK25S-RAMBo10a_de::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo10a_de-Release-483f7919ec028c2fdd8e.json",
+					"name" : "check_lang_MK25S-RAMBo10a_de",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "check_lang_MK25S-RAMBo10a_es::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo10a_es-Release-633fca823895435511a1.json",
+					"name" : "check_lang_MK25S-RAMBo10a_es",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "check_lang_MK25S-RAMBo10a_fr::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo10a_fr-Release-43f321f27d87893b6064.json",
+					"name" : "check_lang_MK25S-RAMBo10a_fr",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "check_lang_MK25S-RAMBo10a_hr::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo10a_hr-Release-0407a84e67fcd6cb3c24.json",
+					"name" : "check_lang_MK25S-RAMBo10a_hr",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "check_lang_MK25S-RAMBo10a_hu::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo10a_hu-Release-a4d3723fb0c2dc0f43d7.json",
+					"name" : "check_lang_MK25S-RAMBo10a_hu",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "check_lang_MK25S-RAMBo10a_it::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo10a_it-Release-a65db19863fd361307a3.json",
+					"name" : "check_lang_MK25S-RAMBo10a_it",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "check_lang_MK25S-RAMBo10a_nl::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo10a_nl-Release-8d363f5f74a178fadb1b.json",
+					"name" : "check_lang_MK25S-RAMBo10a_nl",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "check_lang_MK25S-RAMBo10a_no::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo10a_no-Release-72b759c8e5263a7314f7.json",
+					"name" : "check_lang_MK25S-RAMBo10a_no",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "check_lang_MK25S-RAMBo10a_pl::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo10a_pl-Release-bd095bf0428fde8944a4.json",
+					"name" : "check_lang_MK25S-RAMBo10a_pl",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "check_lang_MK25S-RAMBo10a_ro::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo10a_ro-Release-455c6db8981a6d0563b4.json",
+					"name" : "check_lang_MK25S-RAMBo10a_ro",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "check_lang_MK25S-RAMBo10a_sk::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo10a_sk-Release-fb5a784888242d243dbc.json",
+					"name" : "check_lang_MK25S-RAMBo10a_sk",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "check_lang_MK25S-RAMBo10a_sv::@9faee3f3256cf5e83794",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo10a_sv-Release-6ef933f357cb65222d93.json",
+					"name" : "check_lang_MK25S-RAMBo10a_sv",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "check_lang_MK25S-RAMBo13a::@71c8037c2192bb634858",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo13a-Release-2dac0f1dd91d5d7f14b8.json",
+					"name" : "check_lang_MK25S-RAMBo13a",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "check_lang_MK25S-RAMBo13a_cs::@71c8037c2192bb634858",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo13a_cs-Release-2c4d5e1fa1ce8c35a32a.json",
+					"name" : "check_lang_MK25S-RAMBo13a_cs",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "check_lang_MK25S-RAMBo13a_de::@71c8037c2192bb634858",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo13a_de-Release-ae9b67de46b88d7f6e5d.json",
+					"name" : "check_lang_MK25S-RAMBo13a_de",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "check_lang_MK25S-RAMBo13a_es::@71c8037c2192bb634858",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo13a_es-Release-0b2909e9322d37ce781a.json",
+					"name" : "check_lang_MK25S-RAMBo13a_es",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "check_lang_MK25S-RAMBo13a_fr::@71c8037c2192bb634858",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo13a_fr-Release-237de262115eb170f8d6.json",
+					"name" : "check_lang_MK25S-RAMBo13a_fr",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "check_lang_MK25S-RAMBo13a_hr::@71c8037c2192bb634858",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo13a_hr-Release-2a333c61d30da2d94a1b.json",
+					"name" : "check_lang_MK25S-RAMBo13a_hr",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "check_lang_MK25S-RAMBo13a_hu::@71c8037c2192bb634858",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo13a_hu-Release-0c64ece0af9cf18ed5cd.json",
+					"name" : "check_lang_MK25S-RAMBo13a_hu",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "check_lang_MK25S-RAMBo13a_it::@71c8037c2192bb634858",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo13a_it-Release-49f51ab6853ba09875a8.json",
+					"name" : "check_lang_MK25S-RAMBo13a_it",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "check_lang_MK25S-RAMBo13a_nl::@71c8037c2192bb634858",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo13a_nl-Release-1c76063bc36584704b80.json",
+					"name" : "check_lang_MK25S-RAMBo13a_nl",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "check_lang_MK25S-RAMBo13a_no::@71c8037c2192bb634858",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo13a_no-Release-fc35a93503e96267d900.json",
+					"name" : "check_lang_MK25S-RAMBo13a_no",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "check_lang_MK25S-RAMBo13a_pl::@71c8037c2192bb634858",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo13a_pl-Release-31aac233a6da60c136c4.json",
+					"name" : "check_lang_MK25S-RAMBo13a_pl",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "check_lang_MK25S-RAMBo13a_ro::@71c8037c2192bb634858",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo13a_ro-Release-f5987bb51c1649e70615.json",
+					"name" : "check_lang_MK25S-RAMBo13a_ro",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "check_lang_MK25S-RAMBo13a_sk::@71c8037c2192bb634858",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo13a_sk-Release-90547b1f70bc1db09375.json",
+					"name" : "check_lang_MK25S-RAMBo13a_sk",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "check_lang_MK25S-RAMBo13a_sv::@71c8037c2192bb634858",
+					"jsonFile" : "target-check_lang_MK25S-RAMBo13a_sv-Release-fbde29688c98eff8acac.json",
+					"name" : "check_lang_MK25S-RAMBo13a_sv",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "check_lang_MK3::@82e164d588386a1c94d3",
+					"jsonFile" : "target-check_lang_MK3-Release-39e3889b6ea73e9c02f8.json",
+					"name" : "check_lang_MK3",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "check_lang_MK3-E3DREVO::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO-Release-3c882f7f0b1dc5170f60.json",
+					"name" : "check_lang_MK3-E3DREVO",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "check_lang_MK3-E3DREVO_HF_60W::@c337da9d8a177297e47a",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_HF_60W-Release-1ed78f97e65b3909852d.json",
+					"name" : "check_lang_MK3-E3DREVO_HF_60W",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "check_lang_MK3-E3DREVO_HF_60W_cs::@c337da9d8a177297e47a",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_HF_60W_cs-Release-24b5deb4d1856b48fe5a.json",
+					"name" : "check_lang_MK3-E3DREVO_HF_60W_cs",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "check_lang_MK3-E3DREVO_HF_60W_de::@c337da9d8a177297e47a",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_HF_60W_de-Release-acb70c61795ebf46dbfe.json",
+					"name" : "check_lang_MK3-E3DREVO_HF_60W_de",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "check_lang_MK3-E3DREVO_HF_60W_es::@c337da9d8a177297e47a",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_HF_60W_es-Release-465b0c7afd601858cfa9.json",
+					"name" : "check_lang_MK3-E3DREVO_HF_60W_es",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "check_lang_MK3-E3DREVO_HF_60W_fr::@c337da9d8a177297e47a",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_HF_60W_fr-Release-1a707c98a8f04c3a303d.json",
+					"name" : "check_lang_MK3-E3DREVO_HF_60W_fr",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "check_lang_MK3-E3DREVO_HF_60W_hr::@c337da9d8a177297e47a",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_HF_60W_hr-Release-abfa3f8d68ca8f16c5ff.json",
+					"name" : "check_lang_MK3-E3DREVO_HF_60W_hr",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "check_lang_MK3-E3DREVO_HF_60W_hu::@c337da9d8a177297e47a",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_HF_60W_hu-Release-b47815f9d085fa076a06.json",
+					"name" : "check_lang_MK3-E3DREVO_HF_60W_hu",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "check_lang_MK3-E3DREVO_HF_60W_it::@c337da9d8a177297e47a",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_HF_60W_it-Release-d8d40386fa22a1ef4054.json",
+					"name" : "check_lang_MK3-E3DREVO_HF_60W_it",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "check_lang_MK3-E3DREVO_HF_60W_nl::@c337da9d8a177297e47a",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_HF_60W_nl-Release-e410137fe3f3390d1245.json",
+					"name" : "check_lang_MK3-E3DREVO_HF_60W_nl",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "check_lang_MK3-E3DREVO_HF_60W_no::@c337da9d8a177297e47a",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_HF_60W_no-Release-9cdbb713bd4cb2878089.json",
+					"name" : "check_lang_MK3-E3DREVO_HF_60W_no",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "check_lang_MK3-E3DREVO_HF_60W_pl::@c337da9d8a177297e47a",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_HF_60W_pl-Release-ead87a753199d4f96c4b.json",
+					"name" : "check_lang_MK3-E3DREVO_HF_60W_pl",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "check_lang_MK3-E3DREVO_HF_60W_ro::@c337da9d8a177297e47a",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_HF_60W_ro-Release-a3d0bfe35b21985df3d0.json",
+					"name" : "check_lang_MK3-E3DREVO_HF_60W_ro",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "check_lang_MK3-E3DREVO_HF_60W_sk::@c337da9d8a177297e47a",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_HF_60W_sk-Release-384240c587d7ef8ccc4e.json",
+					"name" : "check_lang_MK3-E3DREVO_HF_60W_sk",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "check_lang_MK3-E3DREVO_HF_60W_sv::@c337da9d8a177297e47a",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_HF_60W_sv-Release-6b9b1c58d40aac833c0b.json",
+					"name" : "check_lang_MK3-E3DREVO_HF_60W_sv",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "check_lang_MK3-E3DREVO_cs::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_cs-Release-88320fe12ad952e62aff.json",
+					"name" : "check_lang_MK3-E3DREVO_cs",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "check_lang_MK3-E3DREVO_de::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_de-Release-ba0d2c3a187b6030f07c.json",
+					"name" : "check_lang_MK3-E3DREVO_de",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "check_lang_MK3-E3DREVO_es::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_es-Release-0d8b0c1f9812608466eb.json",
+					"name" : "check_lang_MK3-E3DREVO_es",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "check_lang_MK3-E3DREVO_fr::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_fr-Release-af8f33ee0e384a47e3d0.json",
+					"name" : "check_lang_MK3-E3DREVO_fr",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "check_lang_MK3-E3DREVO_hr::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_hr-Release-7c19511744fe03078f65.json",
+					"name" : "check_lang_MK3-E3DREVO_hr",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "check_lang_MK3-E3DREVO_hu::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_hu-Release-1727657d8c1c360af554.json",
+					"name" : "check_lang_MK3-E3DREVO_hu",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "check_lang_MK3-E3DREVO_it::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_it-Release-cacc3a4ae225783df652.json",
+					"name" : "check_lang_MK3-E3DREVO_it",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "check_lang_MK3-E3DREVO_nl::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_nl-Release-ae3ccbf46403ac849a47.json",
+					"name" : "check_lang_MK3-E3DREVO_nl",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "check_lang_MK3-E3DREVO_no::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_no-Release-7bbc9e2abf0687fb714e.json",
+					"name" : "check_lang_MK3-E3DREVO_no",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "check_lang_MK3-E3DREVO_pl::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_pl-Release-21c81cc513b5b856dbca.json",
+					"name" : "check_lang_MK3-E3DREVO_pl",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "check_lang_MK3-E3DREVO_ro::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_ro-Release-bf872ffe85575317d203.json",
+					"name" : "check_lang_MK3-E3DREVO_ro",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "check_lang_MK3-E3DREVO_sk::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_sk-Release-c362046261d22515acb9.json",
+					"name" : "check_lang_MK3-E3DREVO_sk",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "check_lang_MK3-E3DREVO_sv::@88d3d9227f3435104bf2",
+					"jsonFile" : "target-check_lang_MK3-E3DREVO_sv-Release-fee65b6862df10c11f57.json",
+					"name" : "check_lang_MK3-E3DREVO_sv",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "check_lang_MK3S::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-check_lang_MK3S-Release-45332d5f2850ece20161.json",
+					"name" : "check_lang_MK3S",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "check_lang_MK3S-E3DREVO::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO-Release-bf4ac412a5082dc20115.json",
+					"name" : "check_lang_MK3S-E3DREVO",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "check_lang_MK3S-E3DREVO_HF_60W::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_HF_60W-Release-77f5aa830a0630ff2333.json",
+					"name" : "check_lang_MK3S-E3DREVO_HF_60W",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "check_lang_MK3S-E3DREVO_HF_60W_cs::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_HF_60W_cs-Release-facf86f032a086bdf7da.json",
+					"name" : "check_lang_MK3S-E3DREVO_HF_60W_cs",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "check_lang_MK3S-E3DREVO_HF_60W_de::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_HF_60W_de-Release-c5c45d795df872dbd501.json",
+					"name" : "check_lang_MK3S-E3DREVO_HF_60W_de",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "check_lang_MK3S-E3DREVO_HF_60W_es::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_HF_60W_es-Release-21c21e8b22f03a4fb929.json",
+					"name" : "check_lang_MK3S-E3DREVO_HF_60W_es",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "check_lang_MK3S-E3DREVO_HF_60W_fr::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_HF_60W_fr-Release-780ed62bbbff8b630f00.json",
+					"name" : "check_lang_MK3S-E3DREVO_HF_60W_fr",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "check_lang_MK3S-E3DREVO_HF_60W_hr::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_HF_60W_hr-Release-91a1d63c3ed4bf8a05eb.json",
+					"name" : "check_lang_MK3S-E3DREVO_HF_60W_hr",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "check_lang_MK3S-E3DREVO_HF_60W_hu::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_HF_60W_hu-Release-d28bee2c08ea1b750e92.json",
+					"name" : "check_lang_MK3S-E3DREVO_HF_60W_hu",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "check_lang_MK3S-E3DREVO_HF_60W_it::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_HF_60W_it-Release-e62eb209ea339757b77a.json",
+					"name" : "check_lang_MK3S-E3DREVO_HF_60W_it",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "check_lang_MK3S-E3DREVO_HF_60W_nl::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_HF_60W_nl-Release-c9d9167d999281f54448.json",
+					"name" : "check_lang_MK3S-E3DREVO_HF_60W_nl",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "check_lang_MK3S-E3DREVO_HF_60W_no::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_HF_60W_no-Release-d08ddc29c940762d20b6.json",
+					"name" : "check_lang_MK3S-E3DREVO_HF_60W_no",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "check_lang_MK3S-E3DREVO_HF_60W_pl::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_HF_60W_pl-Release-93cc97793e14cf45f402.json",
+					"name" : "check_lang_MK3S-E3DREVO_HF_60W_pl",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "check_lang_MK3S-E3DREVO_HF_60W_ro::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_HF_60W_ro-Release-b68daac2490d2d9b4996.json",
+					"name" : "check_lang_MK3S-E3DREVO_HF_60W_ro",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "check_lang_MK3S-E3DREVO_HF_60W_sk::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_HF_60W_sk-Release-a31b8e4178d3d989e57d.json",
+					"name" : "check_lang_MK3S-E3DREVO_HF_60W_sk",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "check_lang_MK3S-E3DREVO_HF_60W_sv::@023abcac6cd00336fe3e",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_HF_60W_sv-Release-a957c9a0c18d2184e828.json",
+					"name" : "check_lang_MK3S-E3DREVO_HF_60W_sv",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "check_lang_MK3S-E3DREVO_cs::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_cs-Release-e36a98e055787e060698.json",
+					"name" : "check_lang_MK3S-E3DREVO_cs",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "check_lang_MK3S-E3DREVO_de::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_de-Release-c5fe465b9bc74fad79f4.json",
+					"name" : "check_lang_MK3S-E3DREVO_de",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "check_lang_MK3S-E3DREVO_es::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_es-Release-b5f5ebf5a3cade351b2b.json",
+					"name" : "check_lang_MK3S-E3DREVO_es",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "check_lang_MK3S-E3DREVO_fr::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_fr-Release-08e74bb5571096681b7b.json",
+					"name" : "check_lang_MK3S-E3DREVO_fr",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "check_lang_MK3S-E3DREVO_hr::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_hr-Release-a933aa5bb166c1f0ea10.json",
+					"name" : "check_lang_MK3S-E3DREVO_hr",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "check_lang_MK3S-E3DREVO_hu::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_hu-Release-76e09485b28d76351fbb.json",
+					"name" : "check_lang_MK3S-E3DREVO_hu",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "check_lang_MK3S-E3DREVO_it::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_it-Release-feaea966453f3099e4bb.json",
+					"name" : "check_lang_MK3S-E3DREVO_it",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "check_lang_MK3S-E3DREVO_nl::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_nl-Release-37f548536871eae28eb8.json",
+					"name" : "check_lang_MK3S-E3DREVO_nl",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "check_lang_MK3S-E3DREVO_no::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_no-Release-37642955efc5c3e336d2.json",
+					"name" : "check_lang_MK3S-E3DREVO_no",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "check_lang_MK3S-E3DREVO_pl::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_pl-Release-f9bc1f837270707c674e.json",
+					"name" : "check_lang_MK3S-E3DREVO_pl",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "check_lang_MK3S-E3DREVO_ro::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_ro-Release-f46c9994c9216765987f.json",
+					"name" : "check_lang_MK3S-E3DREVO_ro",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "check_lang_MK3S-E3DREVO_sk::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_sk-Release-210f3a665fcace5b3a05.json",
+					"name" : "check_lang_MK3S-E3DREVO_sk",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "check_lang_MK3S-E3DREVO_sv::@f737ee07ef72d00e4a84",
+					"jsonFile" : "target-check_lang_MK3S-E3DREVO_sv-Release-5fcc228ed572ac0efc8b.json",
+					"name" : "check_lang_MK3S-E3DREVO_sv",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "check_lang_MK3S_cs::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-check_lang_MK3S_cs-Release-f95ed18dc800ef9bea6d.json",
+					"name" : "check_lang_MK3S_cs",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "check_lang_MK3S_de::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-check_lang_MK3S_de-Release-20ba6310522761dccfa9.json",
+					"name" : "check_lang_MK3S_de",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "check_lang_MK3S_es::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-check_lang_MK3S_es-Release-9e0415751e2a6564de25.json",
+					"name" : "check_lang_MK3S_es",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "check_lang_MK3S_fr::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-check_lang_MK3S_fr-Release-cc99e6ca05a8111879a6.json",
+					"name" : "check_lang_MK3S_fr",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "check_lang_MK3S_hr::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-check_lang_MK3S_hr-Release-9ee43c738dcc7146758a.json",
+					"name" : "check_lang_MK3S_hr",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "check_lang_MK3S_hu::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-check_lang_MK3S_hu-Release-2804ab975f1e48d61b1f.json",
+					"name" : "check_lang_MK3S_hu",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "check_lang_MK3S_it::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-check_lang_MK3S_it-Release-c481822f077a2e33c093.json",
+					"name" : "check_lang_MK3S_it",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "check_lang_MK3S_nl::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-check_lang_MK3S_nl-Release-5c31b108cb25140529c7.json",
+					"name" : "check_lang_MK3S_nl",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "check_lang_MK3S_no::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-check_lang_MK3S_no-Release-37f7d230831c5ce54b50.json",
+					"name" : "check_lang_MK3S_no",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "check_lang_MK3S_pl::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-check_lang_MK3S_pl-Release-0ccd292a93585fddb46a.json",
+					"name" : "check_lang_MK3S_pl",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "check_lang_MK3S_ro::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-check_lang_MK3S_ro-Release-3f00b40693dc0d0c9c7e.json",
+					"name" : "check_lang_MK3S_ro",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "check_lang_MK3S_sk::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-check_lang_MK3S_sk-Release-805d97f33083618f1663.json",
+					"name" : "check_lang_MK3S_sk",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "check_lang_MK3S_sv::@d6a5bfd70c8bfcec66ae",
+					"jsonFile" : "target-check_lang_MK3S_sv-Release-5b5d3d2130dedf56cd5b.json",
+					"name" : "check_lang_MK3S_sv",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "check_lang_MK3_cs::@82e164d588386a1c94d3",
+					"jsonFile" : "target-check_lang_MK3_cs-Release-81244cfac950f616e64f.json",
+					"name" : "check_lang_MK3_cs",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "check_lang_MK3_de::@82e164d588386a1c94d3",
+					"jsonFile" : "target-check_lang_MK3_de-Release-b7801912e1437de83712.json",
+					"name" : "check_lang_MK3_de",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "check_lang_MK3_es::@82e164d588386a1c94d3",
+					"jsonFile" : "target-check_lang_MK3_es-Release-26f762ddea43038e56cb.json",
+					"name" : "check_lang_MK3_es",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "check_lang_MK3_fr::@82e164d588386a1c94d3",
+					"jsonFile" : "target-check_lang_MK3_fr-Release-cc26226e4de4153e4c90.json",
+					"name" : "check_lang_MK3_fr",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "check_lang_MK3_hr::@82e164d588386a1c94d3",
+					"jsonFile" : "target-check_lang_MK3_hr-Release-af6d94f816c4eb9e4e2b.json",
+					"name" : "check_lang_MK3_hr",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "check_lang_MK3_hu::@82e164d588386a1c94d3",
+					"jsonFile" : "target-check_lang_MK3_hu-Release-dc7b9e2c81a62bc8f723.json",
+					"name" : "check_lang_MK3_hu",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "check_lang_MK3_it::@82e164d588386a1c94d3",
+					"jsonFile" : "target-check_lang_MK3_it-Release-4777441993f9970ccef6.json",
+					"name" : "check_lang_MK3_it",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "check_lang_MK3_nl::@82e164d588386a1c94d3",
+					"jsonFile" : "target-check_lang_MK3_nl-Release-415454c81b1addc4b8f7.json",
+					"name" : "check_lang_MK3_nl",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "check_lang_MK3_no::@82e164d588386a1c94d3",
+					"jsonFile" : "target-check_lang_MK3_no-Release-7d5ced9d11947098b730.json",
+					"name" : "check_lang_MK3_no",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "check_lang_MK3_pl::@82e164d588386a1c94d3",
+					"jsonFile" : "target-check_lang_MK3_pl-Release-ed2bfbb31e2bdf3cfa9c.json",
+					"name" : "check_lang_MK3_pl",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "check_lang_MK3_ro::@82e164d588386a1c94d3",
+					"jsonFile" : "target-check_lang_MK3_ro-Release-4fe4bdc3496ae5f6dafd.json",
+					"name" : "check_lang_MK3_ro",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "check_lang_MK3_sk::@82e164d588386a1c94d3",
+					"jsonFile" : "target-check_lang_MK3_sk-Release-7a5aed7383c6b3a1f5cd.json",
+					"name" : "check_lang_MK3_sk",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "check_lang_MK3_sv::@82e164d588386a1c94d3",
+					"jsonFile" : "target-check_lang_MK3_sv-Release-1ed48c7b62308774da65.json",
+					"name" : "check_lang_MK3_sv",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check_lang_cs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_lang_cs-Release-933009717388f9236588.json",
+					"name" : "check_lang_cs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check_lang_de::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_lang_de-Release-df6af1d64388ab58e149.json",
+					"name" : "check_lang_de",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check_lang_es::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_lang_es-Release-02380886f5f8be952e99.json",
+					"name" : "check_lang_es",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check_lang_fr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_lang_fr-Release-d4912997b77e5b139640.json",
+					"name" : "check_lang_fr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check_lang_hr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_lang_hr-Release-a80e04cdc067618ee98c.json",
+					"name" : "check_lang_hr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check_lang_hu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_lang_hu-Release-08bcf8b50d7b9539e5d1.json",
+					"name" : "check_lang_hu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check_lang_it::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_lang_it-Release-eee78ba2aa33aa8924a7.json",
+					"name" : "check_lang_it",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check_lang_nl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_lang_nl-Release-e47f89e38670a063744e.json",
+					"name" : "check_lang_nl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check_lang_no::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_lang_no-Release-5b71670518a8a3bb580a.json",
+					"name" : "check_lang_no",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check_lang_pl::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_lang_pl-Release-5d4f0adbe1542e34d99c.json",
+					"name" : "check_lang_pl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check_lang_ro::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_lang_ro-Release-14aa16e4ffcdbc844e3b.json",
+					"name" : "check_lang_ro",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check_lang_sk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_lang_sk-Release-7d5a4fe8e4a03adeda40.json",
+					"name" : "check_lang_sk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "check_lang_sv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check_lang_sv-Release-85e3357d55d78ed80af7.json",
+					"name" : "check_lang_sv",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Prusa-Firmware/build",
+		"source" : "C:/Prusa-Firmware"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

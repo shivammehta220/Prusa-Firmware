@@ -1,0 +1,3052 @@
+{
+	"archive" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-D",
+				"role" : "flags"
+			}
+		]
+	},
+	"artifacts" : 
+	[
+		{
+			"path" : "libavr_core.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"add_compile_options",
+			"add_compile_definitions",
+			"set_source_epoch",
+			"target_include_directories",
+			"set_property",
+			"set_reproducible_target"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"cmake/ReproducibleBuild.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 343,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 190,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 320,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 335,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 339,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 311,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 62,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 64,
+				"parent" : 6
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 345,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 327,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 328,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 331,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 332,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 344,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 14
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu11"
+				},
+				{
+					"backtrace" : 15,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/wiring_digital.c"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu11"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/WInterrupts.c"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				1
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu11"
+				},
+				{
+					"backtrace" : 17,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/wiring_pulse.c"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				2
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu11"
+				},
+				{
+					"backtrace" : 18,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/hooks.c"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				3
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu11"
+				},
+				{
+					"backtrace" : 19,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/wiring.c"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				4
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu11"
+				},
+				{
+					"backtrace" : 20,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/wiring_analog.c"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				5
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu11"
+				},
+				{
+					"backtrace" : 21,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/wiring_shift.c"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				6
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fno-threadsafe-statics"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "-fno-unwind-tables"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
+				},
+				{
+					"backtrace" : 22,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/CDC.cpp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				7
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fno-threadsafe-statics"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "-fno-unwind-tables"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
+				},
+				{
+					"backtrace" : 23,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/PluggableUSB.cpp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				8
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fno-threadsafe-statics"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "-fno-unwind-tables"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
+				},
+				{
+					"backtrace" : 24,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/HardwareSerial.cpp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				9
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fno-threadsafe-statics"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "-fno-unwind-tables"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
+				},
+				{
+					"backtrace" : 25,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/HardwareSerial0.cpp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				10
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fno-threadsafe-statics"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "-fno-unwind-tables"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
+				},
+				{
+					"backtrace" : 26,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/HardwareSerial1.cpp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				11
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fno-threadsafe-statics"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "-fno-unwind-tables"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
+				},
+				{
+					"backtrace" : 27,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/HardwareSerial3.cpp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				12
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fno-threadsafe-statics"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "-fno-unwind-tables"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
+				},
+				{
+					"backtrace" : 28,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/IPAddress.cpp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				13
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fno-threadsafe-statics"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "-fno-unwind-tables"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
+				},
+				{
+					"backtrace" : 29,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/HardwareSerial2.cpp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				14
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fno-threadsafe-statics"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "-fno-unwind-tables"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
+				},
+				{
+					"backtrace" : 30,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/Print.cpp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				15
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fno-threadsafe-statics"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "-fno-unwind-tables"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
+				},
+				{
+					"backtrace" : 31,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/Stream.cpp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				16
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fno-threadsafe-statics"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "-fno-unwind-tables"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
+				},
+				{
+					"backtrace" : 32,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/Tone.cpp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				17
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fno-threadsafe-statics"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "-fno-unwind-tables"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
+				},
+				{
+					"backtrace" : 33,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/USBCore.cpp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				18
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fno-threadsafe-statics"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "-fno-unwind-tables"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
+				},
+				{
+					"backtrace" : 34,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/WMath.cpp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				19
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fno-threadsafe-statics"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "-fno-unwind-tables"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
+				},
+				{
+					"backtrace" : 35,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/WString.cpp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				20
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fno-threadsafe-statics"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "-fno-unwind-tables"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
+				},
+				{
+					"backtrace" : 36,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/abi.cpp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				21
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Os -g -DNDEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wno-expansion-to-defined"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wsign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mmcu=atmega2560"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DF_CPU=16000000L"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO=10819"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_AVR_PRUSA_EINSY_RAMBO"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DARDUINO_ARCH_AVR"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "-fno-threadsafe-statics"
+				},
+				{
+					"backtrace" : 11,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 12,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 13,
+					"fragment" : "-fno-unwind-tables"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-flto"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-fno-fat-lto-objects"
+				},
+				{
+					"fragment" : "-std=gnu++1z"
+				},
+				{
+					"backtrace" : 37,
+					"fragment" : "-frandom-seed=.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/main.cpp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "SOURCE_DATE_EPOCH=\"2025-10-21\""
+				},
+				{
+					"backtrace" : 8,
+					"define" : "SOURCE_TIME_EPOCH=\"22:38:21\""
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "C:/Prusa-Firmware/.dependencies/prusa3dboards-1.0.6/variants/prusa_einsy_rambo"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				22
+			]
+		}
+	],
+	"id" : "avr_core::@6890427a1f51a3e7e1df",
+	"name" : "avr_core",
+	"nameOnDisk" : "libavr_core.a",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/wiring_digital.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/WInterrupts.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 2,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/wiring_pulse.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 3,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/hooks.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 4,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/wiring.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 5,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/wiring_analog.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 6,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/wiring_shift.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 7,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/CDC.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 8,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/PluggableUSB.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 9,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/HardwareSerial.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 10,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/HardwareSerial0.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 11,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/HardwareSerial1.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 12,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/HardwareSerial3.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 13,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/IPAddress.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 14,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/HardwareSerial2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 15,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/Print.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 16,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/Stream.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 17,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/Tone.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 18,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/USBCore.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 19,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/WMath.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 20,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/WString.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 21,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/abi.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 22,
+			"path" : ".dependencies/prusa3dboards-1.0.6/cores/prusa_einsy_rambo/main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

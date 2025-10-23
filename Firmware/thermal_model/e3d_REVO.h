@@ -17,3 +17,22 @@
 
 // fall-back resistance vector (R0-15)
 #define THERMAL_MODEL_E3D_REVO_Rv {THERMAL_MODEL_E3D_REVO_R, 23.9, 22.5, 19.6, 19.0, 18.3, 17.7, 17.1, 16.8, 16.5, 16.3, 16.0, 15.9, 15.7, 15.6, 15.4}
+
+// echo:Thermal Model settings:
+// echo:  M310 I0 R24.10
+// echo:  M310 I1 R22.81
+// echo:  M310 I2 R21.52
+// echo:  M310 I3 R18.94
+// echo:  M310 I4 R18.24
+// echo:  M310 I5 R17.54
+// echo:  M310 I6 R16.85
+// echo:  M310 I7 R16.15
+// echo:  M310 I8 R15.88
+// echo:  M310 I9 R15.62
+// echo:  M310 I10 R15.35
+// echo:  M310 I11 R15.08
+// echo:  M310 I12 R14.92
+// echo:  M310 I13 R14.76
+// echo:  M310 I14 R14.59
+// echo:  M310 I15 R14.43
+// echo:  M310 P40.00 U-0.0014 V1.05 C7.71 D0.1500 L270 S1 B1 E1.23 W0.85 T-7.00

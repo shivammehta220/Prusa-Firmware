@@ -42,7 +42,7 @@
 
 // Steps per unit {X,Y,Z,E}
 // #define DEFAULT_AXIS_STEPS_PER_UNIT   {100,100,3200/8,280}
-#define DEFAULT_AXIS_STEPS_PER_UNIT {100,100,3200/8,397}
+#define DEFAULT_AXIS_STEPS_PER_UNIT {100,100,3200/8,786.5}
 
 // Endstop inverting
 #define X_MIN_ENDSTOP_INVERTING 0 // set to 1 to invert the logic of the endstop.
@@ -53,7 +53,7 @@
 #define INVERT_X_DIR 1    // for Mendel set to 0, for Orca set to 1
 #define INVERT_Y_DIR 0    // for Mendel set to 1, for Orca set to 0
 #define INVERT_Z_DIR 1     // for Mendel set to 0, for Orca set to 1
-#define INVERT_E0_DIR 0   // for direct drive extruder v9 set to 1, for geared extruder set to 0
+#define INVERT_E0_DIR 1   // for direct drive extruder v9 set to 1, for geared extruder set to 0
 
 // Home position
 #define MANUAL_X_HOME_POS 0
@@ -304,8 +304,7 @@
  *------------------------------------*/
 
 // Mintemps
-// #define HEATER_0_MINTEMP 10
-#define HEATER_0_MINTEMP 5
+#define HEATER_0_MINTEMP 10
 #define HEATER_MINTEMP_DELAY 15000                // [ms] ! if changed, check maximal allowed value @ ShortTimer
 #if HEATER_MINTEMP_DELAY>USHRT_MAX
 #error "Check maximal allowed value @ ShortTimer (see HEATER_MINTEMP_DELAY definition)"
@@ -336,10 +335,10 @@
 #define  DEFAULT_Ki 1.60
 #define  DEFAULT_Kd 73.76
 #else
-// Define PID constants for E3D REVO
-#define  DEFAULT_Kp 25.00
-#define  DEFAULT_Ki 4.8
-#define  DEFAULT_Kd 32.6
+// Define PID constants for E3D REVO M301 P19.04 I3.20 D28.27
+#define  DEFAULT_Kp 20.70
+#define  DEFAULT_Ki 3.57
+#define  DEFAULT_Kd 30.04
 #endif
 
 // Extrude mintemp
@@ -353,8 +352,7 @@
 #define EXTRUDER_AUTO_FAN_TEMPERATURE 50
 #define EXTRUDER_AUTO_FAN_SPEED   255  // == full speed
 #define EXTRUDER_ALTFAN_DETECT
-// #define EXTRUDER_ALTFAN_SPEED_SILENT 128
-#define EXTRUDER_ALTFAN_SPEED_SILENT 255
+#define EXTRUDER_ALTFAN_SPEED_SILENT 128
 
 #define FANCHECK_AUTO_PRINT_FAN_THRS 70 //[RPS] - Used during selftest to identify swapped fans automatically
 #define FANCHECK_AUTO_FAIL_THRS 20 //[RPS] - Used during selftest to identify a faulty fan
@@ -622,8 +620,7 @@
 #elif defined(E3D_PT100_EXTRUDER_NO_AMP)
 #define TEMP_SENSOR_0 148
 #else
-// #define TEMP_SENSOR_0 5
-#define TEMP_SENSOR_0 1
+#define TEMP_SENSOR_0 5
 #endif
 #if defined(E3D_PT100_BED_WITH_AMP)
 #define TEMP_SENSOR_BED 247

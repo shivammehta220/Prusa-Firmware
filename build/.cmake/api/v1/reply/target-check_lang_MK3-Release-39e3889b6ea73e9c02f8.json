@@ -1,0 +1,177 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"fw_add_variant",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"build_gen/MK3/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 469,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 486,
+				"parent" : 1
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "check_lang_MK3_it::@82e164d588386a1c94d3"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "check_lang_MK3_cs::@82e164d588386a1c94d3"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "check_lang_MK3_pl::@82e164d588386a1c94d3"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "check_lang_MK3_hr::@82e164d588386a1c94d3"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "check_lang_MK3_sk::@82e164d588386a1c94d3"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "check_lang_MK3_de::@82e164d588386a1c94d3"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "check_lang_MK3_fr::@82e164d588386a1c94d3"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "check_lang_MK3_nl::@82e164d588386a1c94d3"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "check_lang_MK3_es::@82e164d588386a1c94d3"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "check_lang_MK3_ro::@82e164d588386a1c94d3"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "check_lang_MK3_hu::@82e164d588386a1c94d3"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "check_lang_MK3_no::@82e164d588386a1c94d3"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "check_lang_MK3_sv::@82e164d588386a1c94d3"
+		}
+	],
+	"id" : "check_lang_MK3::@82e164d588386a1c94d3",
+	"name" : "check_lang_MK3",
+	"paths" : 
+	{
+		"build" : "build_gen/MK3",
+		"source" : "build_gen/MK3"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
